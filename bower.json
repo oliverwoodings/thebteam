@@ -1,0 +1,14 @@
+{
+	"name": "thebteam",
+	"version": "0.0.1",
+  "dependencies": {
+    "backbone": "1.1.x",
+    "underscore": "1.5.x",
+    "when": "2.7.x",
+    "jquery": "2.0.3",
+    "requirejs": "2.1.x",
+    "requirejs-text": "2.0.x",
+    "requirejs-tpl": "git@github.com:jfparadis/requirejs-tpl.git",
+    "leap": "git@github.com:KidkArolis/leap.git"
+  }
+}
